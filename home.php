@@ -19,6 +19,7 @@
 	#imagesCarousel,#imagesCarousel .carousel-inner,#imagesCarousel .carousel-item{
 		height: 60vh !important;background: black;
 	}
+    
 	#imagesCarousel .carousel-item.active{
 		display: flex !important;
 	}
